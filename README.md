@@ -1,6 +1,7 @@
 Ce projet est une évaluation JavaScript. Le but était de créer un jeu de lancé de dé en utilisant les langages JS, HTML, CSS et un framework CSS.
 
-Lien url : https://dice-roll-game-mh.netlify.app/
+# Lien url : 
+- https://dice-roll-game-mh.netlify.app/
 
 # Voici l'énoncé : 
 - La possibilité de créer une nouvelle partie (New Game)
