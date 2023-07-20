@@ -4,7 +4,7 @@
   
 - This project is a JavaScript assessment. The objective was to create a dice-rolling game.
 
-# :link: Lien url :
+# :link: URL :
 - https://dice-roll-game-mh.netlify.app/
 
 # Here is the statement :
@@ -13,7 +13,7 @@
 - The ability to roll the dice (Roll Dice)
 - The ability to have 2 players
 
-# :page_facing_up: Règles du jeu : 
+# :page_facing_up: Rules of the game : 
 
 The game includes 2 players on a single screen.
 Each player has a temporary score (ROUND) and an overall score (GLOBAL).
