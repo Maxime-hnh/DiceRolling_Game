@@ -1,4 +1,4 @@
-# :game_die: ROLLDICE GAME 
+# :game_die: ROLLDICE GAME (HTML,CSS, JS, Bootstrap)
 
 Ce projet est une évaluation JavaScript. Le but était de créer un jeu de lancé de dé en utilisant les langages JS, HTML, CSS et un framework CSS.
 
