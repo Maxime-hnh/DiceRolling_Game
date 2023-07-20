@@ -1,27 +1,26 @@
-# :game_die: ROLLDICE GAME
+# :game_die: DICE ROLL GAME
 
 - (HTML,CSS, JS, Bootstrap).
   
-- Ce projet est une évaluation JavaScript. Le but était de créer un jeu de lancé de dé.
+- This project is a JavaScript assessment. The objective was to create a dice-rolling game.
 
 # :link: Lien url :
 - https://dice-roll-game-mh.netlify.app/
 
-# Voici l'énoncé : 
-- La possibilité de créer une nouvelle partie (New Game)
-- La possibilité de retenir le score courant (Current)
-- La possibilité de lancer le dé (Roll Dice)
-- La possibilité d'avoir 2 joueurs
+# Here is the statement :
+- The ability to create a new game (New Game)
+- The ability to hold the current score (Hold)
+- The ability to roll the dice (Roll Dice)
+- The ability to have 2 players
 
 # :page_facing_up: Règles du jeu : 
 
-Le jeu comprend 2 joueurs sur un seul et même écran.
-Chaque joueur possède un score temporaire (ROUND) et un score global (GLOBAL).
-À chaque tour, le joueur a son ROUND initialisé à 0 et peut lancer un dé autant de fois qu'il le souhaite. Le
-résultat d’un lancer est ajouté au ROUND.
-Lors de son tour, le joueur peut décider à tout moment de:
-- Cliquer sur l’option “Hold”, qui permet d’envoyer les points du ROUND vers le GLOBAL. Ce sera alors le
-tour de l’autre joueur.
-- Lancer le dé. S’il obtient un 1, son score ROUND est perdu et c’est la fin de son tour.
-Le premier joueur qui atteint les 100 points sur global gagne le jeu.
+The game includes 2 players on a single screen.
+Each player has a temporary score (ROUND) and an overall score (GLOBAL).
+In each turn, the player's ROUND is initialized to 0, and they can roll a dice as many times as they want. The result of each roll is added to the ROUND.
+
+* During their turn, the player can choose to:
+  - Click on the "Hold" option to transfer the points from ROUND to GLOBAL. Then, it will be the other player's turn.
+  - Roll the dice. If they get a 1, their ROUND score is lost, and their turn ends.
+  - The first player to reach 100 points in GLOBAL wins the game.
 
