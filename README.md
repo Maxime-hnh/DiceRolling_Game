@@ -1,12 +1,14 @@
 Ce projet est une évaluation JavaScript. Le but était de créer un jeu de lancé de dé en utilisant les langages JS, HTML, CSS et un framework CSS.
 
-Voici l'énoncé : 
+Lien url : https://dice-roll-game-mh.netlify.app/
+
+# Voici l'énoncé : 
 - La possibilité de créer une nouvelle partie (New Game)
 - La possibilité de retenir le score courant (Current)
 - La possibilité de lancer le dé (Roll Dice)
 - La possibilité d'avoir 2 joueurs
 
-Règles du jeu : 
+# Règles du jeu : 
 
 Le jeu comprend 2 joueurs sur un seul et même écran.
 Chaque joueur possède un score temporaire (ROUND) et un score global (GLOBAL).
