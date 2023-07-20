@@ -1,6 +1,8 @@
+# :game_die: ROLLDICE GAME 
+
 Ce projet est une évaluation JavaScript. Le but était de créer un jeu de lancé de dé en utilisant les langages JS, HTML, CSS et un framework CSS.
 
-# Lien url : :raising_hand:
+# :link: Lien url :
 - https://dice-roll-game-mh.netlify.app/
 
 # Voici l'énoncé : 
@@ -9,7 +11,7 @@ Ce projet est une évaluation JavaScript. Le but était de créer un jeu de lanc
 - La possibilité de lancer le dé (Roll Dice)
 - La possibilité d'avoir 2 joueurs
 
-# Règles du jeu : 
+# :page_facing_up: Règles du jeu : 
 
 Le jeu comprend 2 joueurs sur un seul et même écran.
 Chaque joueur possède un score temporaire (ROUND) et un score global (GLOBAL).
