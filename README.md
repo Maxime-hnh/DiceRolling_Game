@@ -1,4 +1,4 @@
-# :game_die: DICE ROLL GAME
+# :game_die: DICE ROLLING GAME
 
 - (HTML,CSS, JS, Bootstrap).
   
